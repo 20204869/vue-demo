@@ -1,4 +1,8 @@
 # vue-element-plus
+##Switch directory
+```
+cd vue-element-plus
+```
 ## Project setup
 ```
 yarn install
